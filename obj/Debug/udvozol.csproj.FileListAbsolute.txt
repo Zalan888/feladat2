@@ -1,0 +1,7 @@
+C:\Users\witmannz\gitWork\udvozol\bin\Debug\udvozol.exe.config
+C:\Users\witmannz\gitWork\udvozol\bin\Debug\udvozol.exe
+C:\Users\witmannz\gitWork\udvozol\bin\Debug\udvozol.pdb
+C:\Users\witmannz\gitWork\udvozol\obj\Debug\udvozol.csproj.AssemblyReference.cache
+C:\Users\witmannz\gitWork\udvozol\obj\Debug\udvozol.csproj.CoreCompileInputs.cache
+C:\Users\witmannz\gitWork\udvozol\obj\Debug\udvozol.exe
+C:\Users\witmannz\gitWork\udvozol\obj\Debug\udvozol.pdb
